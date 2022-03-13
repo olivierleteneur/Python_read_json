@@ -1,0 +1,35 @@
+{
+  "DVDs": [{
+      "Titre": "Albator 78",
+      "Affiche": "http://fr.web.img1.acsta.net/medias/nmedia/18/60/04/43/18605469.jpg",
+      "Genres": "Série TV, Aventure, Science fiction, Action, Animation",
+      "year": "1978",
+      "duration": "0",
+      "Synopsis": "An 2980. Les Sylvidres, des créatures végétales qui ont l'apparence de femmes, ont pour objectif de s'emparer de la Terre. Aidé de son équipage, le corsaire de l'espace Albator est  le seul à lutter contre l'ennemi, les terriens ignorant la menace qui pèse sur eux..."
+    },
+    {
+      "Titre": "Albator, Corsaire de l'Espace",
+      "Affiche": "http://fr.web.img3.acsta.net/pictures/210/459/21045968_20131002122115037.jpg",
+      "Genres": "Animation, Aventure, Science fiction",
+      "year": "2013",
+      "duration": "115",
+      "Synopsis": "2977. Albator, capitaine du vaisseau Arcadia, est un corsaire de l’espace. Il est condamné à mort, mais reste insaisissable.  Le jeune Yama, envoyé pour l’assassiner, s’infiltre dans l’Arcadia, alors qu’Albator décide d’entrer en guerre contre la Coalition Gaia afin de défendre sa planète d’origine, la Terre. "
+    },
+    {
+      "Titre": "Alien, la résurrection",
+      "Affiche": "http://fr.web.img1.acsta.net/medias/nmedia/18/35/16/36/20072582.jpg",
+      "Genres": "Fantastique",
+      "year": "1997",
+      "duration": "104",
+      "Synopsis": "Deux cents ans après la mort de l'officier Ripley, une équipe de généticiens ressuscite la jeune femme en croisant son ADN avec celui d'un Alien. Le cauchemar reprend. A bord de la station Auriga, Ripley donne naissance à un fils qui lui est aussitôt enlevé. Prisonnière, elle s'efforce de renouer avec son lointain passé humain. Bientôt un autre vaisseau rejoint l'Auriga. Parmi l'équipage composé de brutes et de mercenaires, Ripley découvre une belle jeune femme, Call, avec laquelle elle ne tarde pas à se lier d'amitié."
+    },
+    {
+      "Titre": "Alien, le huitième passager",
+      "Affiche": "http://fr.web.img3.acsta.net/medias/nmedia/18/35/14/60/18363837.jpg",
+      "Genres": "Science fiction, Epouvante-horreur, Thriller",
+      "year": "1979",
+      "duration": "116",
+      "Synopsis": "Le vaisseau commercial Nostromo et son équipage, sept hommes et femmes, rentrent sur Terre avec une importante cargaison de minerai. Mais lors d'un arrêt forcé sur une planète déserte, l'officier Kane se fait agresser par une forme de vie inconnue, une arachnide qui étouffe son visage. Après que le docteur de bord lui retire le spécimen, l'équipage retrouve le sourire et dîne ensemble. Jusqu'à ce que Kane, pris de convulsions, voit son abdomen perforé par un corps étranger vivant, qui s'échappe dans les couloirs du vaisseau..."
+    }
+  ]
+}
