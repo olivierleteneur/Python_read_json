@@ -1,2 +1,3 @@
 # Python_read_json
-A Python script to read Json file
+
+The purpose of this Python script is to  read Json file
